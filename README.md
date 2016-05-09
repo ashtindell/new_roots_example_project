@@ -1,4 +1,4 @@
----
+# Cheatsheet for setting up a new roots project using subtrees
 
 $ mkdir new_roots_project
 
