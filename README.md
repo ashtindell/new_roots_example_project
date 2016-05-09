@@ -6,7 +6,7 @@ $ git remote add origin { add your repo here }
 
 ( create a .gitignore and add your first commit )
 
-ADD TRELLIS
+## ADD TRELLIS
 
 $ git remote add trellis https://github.com/roots/trellis.git
 
@@ -20,7 +20,7 @@ $ git read-tree --prefix=trellis/ -u trellis/master
 
 $ git commit -m "add trellis subtree"
 
-ADD BEDROCK
+## ADD BEDROCK
 
 $ git remote add bedrock https://github.com/roots/bedrock.git
 
@@ -34,7 +34,7 @@ $ git read-tree --prefix=site/ -u bedrock/master
 
 $ git commit -m "add bedrock subtree"
 
-ADD SAGE
+## ADD SAGE
 
 $ git remote add sage https://github.com/roots/sage.git
 
@@ -48,7 +48,7 @@ $ git read-tree --prefix=site/web/app/themes/sage -u sage/master
 
 $ git commit -m "add sage subtree"
 
-UPDATING
+## UPDATING
 
 $ git checkout trellis
 
