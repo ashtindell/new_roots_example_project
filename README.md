@@ -1,4 +1,3 @@
-...using the directions found here: http://chrisknightindustries.com/2015/24/11/git-subtrees-for-trellis-workflow.html
 ---
 
 $ mkdir new_roots_project
@@ -62,3 +61,7 @@ $ git checkout master
 $ git merge --squash -s subtree --no-commit trellis
 
 $ git commit -m "update trellis from trellis/master"
+
+---
+
+...using the directions found here: http://chrisknightindustries.com/2015/24/11/git-subtrees-for-trellis-workflow.html
