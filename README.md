@@ -1,4 +1,5 @@
-( using the directions found here: http://chrisknightindustries.com/2015/24/11/git-subtrees-for-trellis-workflow.html )
+...using the directions found here: http://chrisknightindustries.com/2015/24/11/git-subtrees-for-trellis-workflow.html
+---
 
 $ mkdir new_roots_project
 
