@@ -2,6 +2,8 @@
 
 $ mkdir new_roots_project
 
+$ cd new_roots_project
+
 $ git init
 
 $ git remote add origin { add your repo here }
